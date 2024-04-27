@@ -71,3 +71,8 @@ I want to keep working on this project, but with my current technical background
 ## Presentation Link
 
 https://drive.google.com/file/d/1FcVNwv4RHr6vq05-mA3exfGkEaPCbfrD/view?usp=sharing
+
+## Links
+
+https://colab.research.google.com/drive/1Wt1iqs19-K-tEckx4N4VPhkqExYuhOVq?usp=sharing
+https://colab.research.google.com/drive/1YJEcgR1ZkaLniQeSFoEHnKe2OVddMtbk?usp=sharing
