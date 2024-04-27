@@ -3,9 +3,6 @@ This project is created to help combat attention span issues in little kids, a r
 
 ## Lucas Slater, lucas.a.slater@vanderbilt.edu, slaterla, Co-PI
 ## Soham Saraf, soham.s.saraf@vanderbilt.edu, sarafss, Co-PI
-**Due March 21, 11:59pm**
-
-Name, Vandy email, VUNetID, Role
 
 ## Project Proposal 
 **Due March 21, 11:59pm**
