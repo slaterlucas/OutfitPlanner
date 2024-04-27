@@ -1,18 +1,8 @@
-# Outfit Planner
-Deciding what to wear every day is a small yet significant task that consumes time and mental energy. For individuals with busy schedules or for those who prefer to minimize daily decision-making to focus on more critical tasks (echoing Mark Zuckerberg's approach of wearing only zip-up sweaters to reduce choice fatigue), selecting daily outfits can be an unnecessary burden. This project aims to streamline the process of choosing outfits by leveraging AI to create a personal outfit planner assistant.
+# Interactive Education Platform
+This project is created to help combat attention span issues in little kids, a rising problem in today's world. We are trying to make an interactive education system, that will use pop culture information and storylines in order to facilitate a fun way of learning, specifically math. 
 
-Project Notes:
-
-- Please remember to keep your repo private when you create it from this template.
-- Be sure to create your report in the **intro-gen-ai** organization. 
-- The name of the repo should be the name of the project, or a shortened version of the name.
-- Each section should be completed by the deadline indicated. You submit by making a commit of this README.md file. Except for minor edits, please do no change the Proposal, Goals, or Metrics sections after the submission deadline.
-- General guidance on formatting writing in markdown files (like this README.md file) is at https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax.
-- There is a [recording of the the class discussion on the use of this template](https://vanderbilt.zoom.us/rec/share/RjihScz0Ti7RId0KMj7GWBc8XueS571_JnFqDQwli0AuKLsgaau0j_RcphBjwYtV.HP10ROf2TwPUn6TA?startTime=1697553005000).
-- You can sign up for a time to discuss your ideas for the project at https://calendly.com/jesse-spencer-smith. We'll also be discussing project in class on Tuesday after Fall Break.
-- Remember that there is an AI Showcase on April 19 (with prizes for Best in Show), so you might want to consider completing your project by then. 
-
-## Lucas Slater, lucas.a.slater@vanderbilt.edu, slaterla, PI
+## Lucas Slater, lucas.a.slater@vanderbilt.edu, slaterla, Co-PI
+## Soham Saraf, soham.s.saraf@vanderbilt.edu, sarafss, Co-PI
 **Due March 21, 11:59pm**
 
 Name, Vandy email, VUNetID, Role
@@ -24,69 +14,70 @@ Name, Vandy email, VUNetID, Role
 
 ### Description of Problem/Opportunity
 
-Choosing an outfit involves considering various factors: the occasion, weather, personal style, and even laundry schedules. This daily decision can lead to decision fatigue, where the quality of decisions deteriorates after a long session of decision-making. Furthermore, many people have clothes in their wardrobes that they rarely wear, either because they forget about them or can't find the right occasion or combination. An AI-driven outfit planner can optimize this process by providing personalized outfit suggestions, ensuring wardrobe utilization, and saving time.
+Today's children often face challenges with maintaining attention due to the numerous distractions presented by digital media and technology. This shorter attention span can make it difficult for them to engage deeply with educational content, particularly in subjects that require consistent focus and practice, such as mathematics. The need for innovative methods to hold their interest in learning is becoming increasingly crucial to help them overcome these challenges and succeed academically.
 
 ### Proposed Solution/Approach
 
-The proposed solution is an AI-based outfit planner assistant that catalogs the user's wardrobe and generates outfit combinations based on various parameters. Users will initially scan all items in their closet using a mobile or web application. The AI will then categorize these items by type, color, fabric, and occasion suitability. Based on this data, the AI will create numerous possible outfit combinations, considering factors such as weather forecasts, user preferences, and outfit repetition. The system will learn from user feedback to refine future suggestions, becoming more personalized over time.
+To address these attention span challenges, an AI-driven educational tool leverages the popular and engaging world of Pokémon to captivate children's interest. By weaving math problems into stories about children's favorite Pokémon characters, the AI assistant makes learning interactive and fun. This method not only keeps children engaged but also helps them develop their math skills in a context that feels more like play than work. The tool can adjust the difficulty of the problems based on the child's progress, ensuring that they are always challenged but not overwhelmed, thereby promoting a deeper understanding and sustained interest in learning.
 
 ### Project Outline and Timeline
 
-Week 1: Research and Development
-Conduct research on existing outfit planner apps and AI technologies suitable for image recognition and personalization.
-Begin developing the core algorithm for categorizing clothing and generating outfit combinations.
-Week 2: Prototype Development
-Develop a basic prototype that can accept wardrobe inputs and generate outfit suggestions.
-Start working on the user interface design.
-Week 3: Testing and Feedback
-Test the prototype internally and with a select group of users for feedback.
-Refine the algorithm and user interface based on feedback.
-Week 4: Final Development
-Finalize the app development, focusing on user experience and AI performance.
-Prepare for launch and promotional activities.
-Week 5: Launch
-Launch the outfit planner app to a broader audience.
-Monitor for issues and feedback for immediate fixes.
+Week 1: Research and Ideation
+Research the impact of engaging storytelling in education and explore existing edutainment apps.
+Develop the initial AI algorithms for integrating math problems into Pokémon stories.
+Week 2: Development of Content and Features
+Create a variety of math problems tailored to different age groups and abilities.
+Begin crafting engaging Pokémon-themed stories that incorporate these math challenges.
+Week 3: Prototype Creation
+Develop a basic prototype that combines the storytelling and math problem-solving features.
+Design a user-friendly interface that allows children to interact easily with the stories and challenges.
+Week 4: Testing and Iteration
+Conduct internal testing of the prototype to ensure functionality and engagement.
+Organize a focus group with children to receive feedback and observe their interaction with the product.
+Week 5: Refinement and Preparation for Launch
+Refine the AI algorithms and story content based on feedback from testing.
+Prepare marketing materials and plan promotional activities to generate interest.
+Week 6: Launch and Post-Launch Activities
+Officially launch the app to the public.
+Monitor user engagement and feedback for further improvements and updates.
 
 ## Goals of project 
 **Due March 21, 11:59pm**
 
 Describe 1-5 goals of the project. 
 ### Goal 1 
-Develop an easy-to-use, efficient AI-powered outfit planner that significantly reduces the time and effort required to choose daily outfits.
+Develop an easy-to-use, efficient AI-powered story creator that significantly increasing attention when learning math.
 ### Goal 2
-Ensure the application's AI is capable of learning and adapting to the user's preferences and style over time, improving the personalization of outfit suggestions.
+Increase sustained attention and focus among young learners during math practice by making it a fun and engaging experience tied to their interests in Pokémon.
 ### Goal 3
-Achieve a significant reduction in the time users spend deciding on outfits each week, demonstrating the app's efficiency and impact on daily routines.
+Achieve measurable improvements in math test scores and overall academic performance among users, demonstrating the effectiveness of integrating education with popular cultural themes.
 
 ## Project Metrics 
 **Due March 21, 11:59pm**
 
 Compose 2-5 metrics to determine the success of the project. These should be measureable, and should translate to a letter grade for each. 
 ### Metric 1 
-User satisfaction will be measured through surveys and app reviews. A satisfaction level of 80% or higher will be considered a success (A), 60-79% as satisfactory (B), and below 60% as needing improvement (C).
+Measure user satisfaction through surveys, with over 80% positive feedback rated as 'A', 60-79% as 'B', and below 60% as 'C'.
 ### Metric 2
-The rate at which the app encourages the use of previously underutilized items in the wardrobe. A utilization increase of 30% or more is an A, 15-29% is a B, and less than 15% is a C.
+Evaluate improvement in math skills, where a 20% or higher increase in test scores is an 'A', 10-19% is a 'B', and less than 10% is a 'C'.
 ### Metric 3
-Measure the average time users spend deciding on outfits before and after using the app. A reduction of 50% or more in decision-making time will be considered excellent (A), 30-49% reduction will be viewed as good (B), and a reduction of less than 30% will need improvement (C).
+Assess parental feedback, where 80% or more positive responses receive an 'A', 60-79% a 'B', and less than 60% a 'C'.
 
 ## Self-Evaluation
 **Due April 26, 11:59pm**
 
 300-1000 words
 
-Address each of the goals, and assess each of the metrics. Include a statement on each on what you achieved or did not achieve, give support for your assessments.
+The project aimed to integrate educational math problems into Pokémon-themed stories, leveraging an AI-driven approach to enhance engagement and learning among children. This evaluation assesses the fulfillment of our project goals and examines the effectiveness of our metrics. Our first goal was to create an AI-powered educational tool that could blend math problems with Pokémon stories to capture and sustain children's attention. While the concept was solid and well-received by education professionals and peers, technical challenges limited full execution. Specifically, the integration between the Pokémon API and our voice-activated chatbot faced issues, causing disruptions in the intended seamless user experience. Despite these hurdles, the prototype showed potential in engaging children during initial tests. The objective was for the AI to adapt to various learning styles and paces. While we implemented foundational adaptive features, real-world effectiveness in personalizing learning experiences could only be thoroughly evaluated through extended usage and data collection, which is beyond what we are currently able to do as Vanderbilt students. We intended to use Pokémon-themed narratives to extend the duration of children's focus on math tasks. Initial feedback was promising, indicating that the stories were engaging. However, we were not able to collect any data on how effective this was as we do not have acsess to any formal studies. We can however say that the concept is a fun idea and we did have some fun playing with it. Our goal to demonstrate measurable academic improvements was ambitious. Without the capability to conduct controlled, long-term studies, we cannot conclusively claim academic enhancements. We were unable to measure actual improvements in math skills through pre- and post-tests. This metric remains speculative, and future iterations of the project would benefit from a structured evaluation approach. User retention metrics were not obtainable in our current development phase. Future versions of the app should include analytics capabilities to track and improve user engagement and retention. While we did not conduct formal surveys, the informal feedback from discussions with parents and educators was highly positive. Many recognized the educational value of combining learning with popular cultural themes like Pokémon.
 
 ## Reflection on Learning
 **Due April 26, 11:59pm**
 
 500-1000 words
 
-What do you take away from the project? Has this changed how you understand AI? Does and how does this affect future plans for learning, work, or otherwise?
+We went through many stages of ideation, our first being an outfit planner which was my original project proposal. While we were able to implement a computer vision model on Pycharm, we were unable to be able to correctly identify specific clothing objects. An example of this would be we gave the model 5 different types of pants, like jeans, cargos, and khakis, and it replied that all of them were just blue jeans. We also had trouble with identifying colors, as there were essentially no open-source models on huggingface that allowed us to do this. After these technical difficulties, we came up with another idea, combining my studies in Spanish with Soham's studies in Medicine, Health, and Society. This was a chatbot that would be powered by speech, replying with diagrams and other audio to help address medical emergencies, we thought this would be a good idea as we know there is some technological illiteracy, and also just illiteracy in some Latin American countries. This fell flat after we got our speech-to-text chatbot working, as we were not able to incorporate image generation or replies in voice-activated text. Our next idea was then a way to make education more fun, which is the idea we finalized. Through this process of ideation, I learned so much about the different capabilities of AI, and how complicated it can be to build projects. There would be times when Soham and I would sit down and experiment for a couple of hours with nothing to show for it at the end. But, I believe this process of trying and failing helped me learn a lot. I now feel like I understand much more of the backend of projects, and was also inspired by working on this. I feel like I learned a substantial amount in the time I worked on it, to the point where if I was working like this every day over the summer I would know so much about building AI-based applications. I would love to be able to complete all the ideas I have, as I feel like all of the ones I tried for this project would genuinely be very useful. I also loved the idea of combining our two majors with the project, as it shows how AI can really be used in any discipline. Overall, while I failed a lot, I am very happy about all the things I learned along the way of doing this final project. I really enjoyed the process of ideation, as well as trying to create projects. If I was actually able to fully implement this education idea, I feel like it could genuinely be useful and help people learn, especially with the attention span issues nowadays. In my future learning, I would love to dive further into the topic of AI, but more specifically learn the skills to be able to create things with AI. For example, if we had a class where the goal was building things weekly with AI, I would now change my schedule around to accommodate this. One easy thing I could do is try to learn Python, as it seems as though this is what is used often. Overall, I hope to continue to learn and grow in this field, and am greatfull for the things I learned in this class. 
 
 ## What's Next?
 **Due April 22, 11:59pm**
 
-100-500 words
-
-Do you plan on continuing the project? What will you do with what you've learning?
+I want to keep working on this project, but with my current technical background, it can be very frustrating to work on, as I feel clueless when I encounter an error. The first thing I would fix is to make the project fully functioning, as well as incorporating some sort of Math API, and an image generator, to make the stories more immersive. Maybe I could even incorporate text-to-speech for when there is a dialogue in the storylines. I hope Chat GPT advances to the point where it can code without errors for someone, or I can take a class focused on the coding aspects of AI. This class was a great introduction to the field, but learning more about training my own models and building applications would unleash my potential a lot more. I also love the idea of combining AI with other things I learn at school, and potentially trying to include it in projects for non-engineering related classes. For example, I just had to do a Spanish project on creating a business plan for a restaurant, something that you could make a GPT assistant to aid you in. I think the opportunities are endless and I am excited for the future of AI.
